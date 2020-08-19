@@ -13,3 +13,5 @@
 		app:progress_radius="35dp"
 		app:progress_width="3dp" />
 ```
+
+只是一个简单的自定义View，就不建成依赖，直接复制CustomStatusView.java和attrs.xml的代码即可
