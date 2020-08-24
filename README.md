@@ -15,3 +15,5 @@
 ```
 
 只是一个简单的自定义View，就不建成依赖，直接复制CustomStatusView.java和attrs.xml的代码即可
+
+https://blog.csdn.net/weixin_42164949/article/details/108097274
